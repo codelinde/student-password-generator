@@ -1,0 +1,19 @@
+{
+  "name": "student-password-generator",
+  "version": "1.0.0",
+  "description": "Generates passwords for students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "keywords": [
+    "password",
+    "k-12",
+    "student"
+  ],
+  "author": "Ryan L",
+  "license": "ISC",
+  "dependencies": {
+    "convert-array-to-csv": "^1.0.8"
+  }
+}
