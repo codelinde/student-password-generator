@@ -7,7 +7,7 @@ Passwords take the form of adjective + singular noun + two digit number for memo
 Example: brightzebra12
 
 # How to use
-Initialize the app in node and run index.js. The resulting CSV file will be outputted as csv/passwords.csv. NOTE: This file will be overwritten every time you run the command, so please copy your files as needed.
+After downloading npm dependencies, initialize the app in node and run index.js. The resulting CSV file will be outputted as csv/passwords.csv. NOTE: This file will be overwritten every time you run the command, so please copy your files as needed.
 
 # Customization
 The variables nounsList and adjectivesList can be modified to include whatever nouns and adjectives you want. Editing the variable resultNumber changes the amount of passwords that will be generated in the csv file. 
